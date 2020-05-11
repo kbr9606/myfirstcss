@@ -1,0 +1,14 @@
+
+html, body { background-color: #E7E5D9; height: 100%; font-family: "Open Sans", sans-serif;  }
+h1 { text-shadow: 7px 4px 3px rgb(129, 154, 163); font-size: 70px; color: rgb(226, 128, 111); font-weight: bold; }
+h2 { font-size: 36px; color: rgb(224, 146, 142); }
+ol {color: rgb(83, 111, 121); font-size: 18px; ;}
+ul {color: rgb(83, 111, 121); font-size: 18px; line-height: 1.3cm;}
+summary { font-size: 25px; color: rgb(223, 157, 154); font-weight: 600; }
+p {
+font-size: 18px; color: rgb(83, 111, 121); line-height: 2;
+}
+img { max-width: 20%; }
+#last {font-style: italic}
+#hobby{font-weight: 550;}
+#book {text-indent: 25px;}
